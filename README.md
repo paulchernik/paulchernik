@@ -1,16 +1,18 @@
-### Hi there 👋
+### Всем привет! 👋
 
-<!--
-**paulchernik/paulchernik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Черник Павел и я аналитик данных. Имею экономическое образование и большой опыт менеджмента и продаж. В данный момент развиваюсь в аналитике данных.
 
-Here are some ideas to get you started:
+- :computer: SQL, :snake: Python
+- :spiral_notepad: Excel
+- :bar_chart: Redash, Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### Обучение :man_student:
+
+
+<div>
+<img src="https://lab.karpov.courses/certificate/d760fa86-0e65-40bf-8d8d-4455fe5061f9/" title="Karpov" alt="Karpov" width="320" height="260"/>&nbsp;
+<img src="https://stepik.org/cert/2448471" title="Window_sql" alt="Window_sql" width="320" height="260"/>&nbsp;
+</div>
