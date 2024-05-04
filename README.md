@@ -13,6 +13,6 @@
 
 
 <div>
-<img src="https://lab.karpov.courses/certificate/d760fa86-0e65-40bf-8d8d-4455fe5061f9/" title="Karpov" alt="Karpov" width="320" height="260"/>&nbsp;
-<img src="https://stepik.org/cert/2448471" title="Window_sql" alt="Window_sql" width="320" height="260"/>&nbsp;
+<a href="https://lab.karpov.courses/certificate/d760fa86-0e65-40bf-8d8d-4455fe5061f9/" target="_blank"><img src="https://github.com/paulchernik/paulchernik/blob/main/Karpov_analyst.jpg?raw=true" title="Karpov_analyst" alt="Karpov_analyst" width="498" height="352"></a>&nbsp;
+<a href="https://lab.karpov.courses/certificate/48184da5-bfd8-43f7-bb84-705cb8dafc73/" target="_blank"><img src="https://github.com/paulchernik/paulchernik/blob/main/Karpov_python.jpg?raw=true" title="Karpov_python" alt="Karpov_python" width="498" height="352"></a>&nbsp;
 </div>
