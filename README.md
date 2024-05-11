@@ -41,7 +41,7 @@
         <img src="https://github.com/paulchernik/paulchernik/blob/main/Karpov_sql.jpg?raw=true" title="Karpov_sql" alt="Karpov_sql" width="340" height="240">
     </a>
     <a href="https://stepik.org/certificate/c180d794cee2d8fac6405b04cbef6ce85d8216a1.pdf" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/paulchernik/paulchernik/blob/main/stepik_sql_window.jpg?raw=true" title="stepik_sql_window" alt="stepik_sql_window" width="340" height="240">
+        <img src="https://github.com/paulchernik/paulchernik/blob/main/stepik-certificate-95367-c180d79_page-0001.jpg?raw=true" title="stepik_sql_window" alt="stepik_sql_window" width="340" height="240">
     </a>
 </div>
 
